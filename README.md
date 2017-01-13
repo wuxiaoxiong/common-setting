@@ -6,8 +6,10 @@ set for git alias
 
 ## useage
 
-1. cd into your home dir 
+1. cd into your home dir :
+
 cd ~
 
-2. copy .gitconfig file
+2. copy .gitconfig file:
+
 cp -rp .gitconfig ./
