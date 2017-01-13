@@ -5,5 +5,9 @@ common setting includes .gitconfig .bashrc .bash_profile and etc.
 set for git alias
 
 ## useage
-cd
+
+1. cd into your home dir 
+cd ~
+
+2. copy .gitconfig file
 cp -rp .gitconfig ./
