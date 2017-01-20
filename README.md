@@ -9,9 +9,9 @@ set for git alias
 * cd into your home dir :
 `cd ~`
 
-* copy .gitconfig file:
+* copy .gitconfig file :
 `cp -rp .gitconfig ./`
 
-* test
-cd a git directory and input: git st
+* test :
+cd a git directory and input: `git st`
 
