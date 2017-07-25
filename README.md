@@ -1,8 +1,13 @@
 # common-setting
-common setting includes .gitconfig .bashrc .bash_profile and etc.
+common setting includes 
+.gitconfig - set for git alias
+.bashrc 
+.bash_profile 
+and etc.
 
-#.gitconfig
-set for git alias
+# Others:
+CentOs Git update:
+http://www.cnblogs.com/dwj97/p/6439051.html
 
 ## useage
 
