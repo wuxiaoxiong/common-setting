@@ -5,10 +5,6 @@ common setting includes
 .bash_profile 
 and etc.
 
-# Others:
-CentOs Git update:
-http://www.cnblogs.com/dwj97/p/6439051.html
-
 ## useage
 
 * cd into your home dir :
@@ -19,4 +15,9 @@ http://www.cnblogs.com/dwj97/p/6439051.html
 
 * test :
 cd a git directory and input: `git st`
+
+
+## Others:
+CentOs Git update:
+http://www.cnblogs.com/dwj97/p/6439051.html
 
