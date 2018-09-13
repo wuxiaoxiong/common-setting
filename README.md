@@ -21,3 +21,5 @@ cd a git directory and input: `git st`
 CentOs Git update:
 http://www.cnblogs.com/dwj97/p/6439051.html
 
+Bash & Git auto completion
+https://blog.csdn.net/kun525331194/article/details/54262903
