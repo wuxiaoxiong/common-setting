@@ -13,6 +13,7 @@ and etc.
 * copy .gitconfig file :
 `cp -rp .gitconfig ./`
 
+
 * test :
 cd a git directory and input: `git st`
 
