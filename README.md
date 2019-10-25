@@ -28,3 +28,6 @@ https://blog.csdn.net/kun525331194/article/details/54262903
 Alfred
 https://www.jianshu.com/p/e9f3352c785f
 
+Get MFA by Alfred
+https://github.com/moul/alfred-workflow-gauth
+
