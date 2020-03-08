@@ -31,3 +31,7 @@ https://www.jianshu.com/p/e9f3352c785f
 Get MFA by Alfred
 https://github.com/moul/alfred-workflow-gauth
 
+shell auto complete
+https://www.zhihu.com/question/20620445/answer/1063450249
+
+
