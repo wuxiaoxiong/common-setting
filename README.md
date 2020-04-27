@@ -1,21 +1,22 @@
 # common-setting
-common setting includes 
-.gitconfig - set for git alias
-.bashrc 
-.bash_profile 
-and etc.
+common setting for new Mac
 
-## useage
+## vim setting
+```
+cp /usr/share/vim/vimrc ~/.vimrc	#复制 vim 配置模版
+echo 'syntax on' >> ~/.vimrc	#开启语法高亮
+echo 'set nu!' >> ~/.vimrc	#开启行号显示
+```
 
-* cd into your home dir :
-`cd ~`
+## git alias
+```
+cd ~
+git clone this repo
+cp -rp common-setting/.gitconfig ./
 
-* copy .gitconfig file :
-`cp -rp .gitconfig ./`
-
-
-* test :
+// test
 cd a git directory and input: `git st`
+```
 
 ## install zsh
 ```
