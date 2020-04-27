@@ -18,7 +18,8 @@ cp -rp common-setting/.gitconfig ./
 cd a git directory and input: `git st`
 ```
 
-## install zsh
+## zsh
+[zsh](https://sspai.com/post/55176)
 ```
 sudo chsh -s /bin/bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
