@@ -1,6 +1,12 @@
 # common-setting
 common setting for new Mac
 
+## common step
+1. install homebrew && [change origin](https://blog.csdn.net/qq_33591200/article/details/82882562)
+1. install git
+1. install nvm
+1. install ohmyzsh or fish
+
 ## vim setting
 ```
 cp /usr/share/vim/vimrc ~/.vimrc	#复制 vim 配置模版
@@ -8,7 +14,14 @@ echo 'syntax on' >> ~/.vimrc	#开启语法高亮
 echo 'set nu!' >> ~/.vimrc	#开启行号显示
 ```
 
-## git alias
+## zsh
+[zsh](https://sspai.com/post/55176)
+```
+sudo chsh -s /bin/bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+## git alias (if use bash)
 ```
 cd ~
 git clone this repo
@@ -16,13 +29,6 @@ cp -rp common-setting/.gitconfig ./
 
 // test
 cd a git directory and input: `git st`
-```
-
-## zsh
-[zsh](https://sspai.com/post/55176)
-```
-sudo chsh -s /bin/bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 
