@@ -19,7 +19,7 @@
 }
 
 alias gcm="git co master"
-alias gcm="git co develop"
+alias gcd="git co develop"
 alias grm="git rebase master"
 alias gcmgp="git co master && git pull"
 alias gmm="git merge master"
