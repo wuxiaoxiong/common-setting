@@ -17,7 +17,10 @@ echo 'set nu!' >> ~/.vimrc	#开启行号显示
 ## zsh
 [zsh](https://sspai.com/post/55176)
 ```
+# cat /etc/shells 如果没有zsh需要先安装 apt install zsh -y
+# 切换shell为zsh
 sudo chsh -s /bin/bash
+# 安装ohmyzsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
