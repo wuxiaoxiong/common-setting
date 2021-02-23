@@ -3,7 +3,7 @@ common setting for new Mac
 
 ## common step
 1. install iTerm2 | WebStorm
-1. install ohmyzsh or fish
+1. install [ohmyzsh](https://ohmyz.sh/#install)  & config it
 1. install homebrew && [change origin](https://blog.csdn.net/qq_33591200/article/details/82882562)
 1. install git `brew install git`
 1. install nvm (npx nrm use taobao)
@@ -16,13 +16,9 @@ echo 'syntax on' >> ~/.vimrc	#开启语法高亮
 echo 'set nu!' >> ~/.vimrc	#开启行号显示
 ```
 
-## zsh
-[zsh](https://sspai.com/post/55176)
+## Oh My Zsh Config
+[config](https://sspai.com/post/55176)
 ```
-# 如果没有zsh需要先安装 yum -y install zsh(Linux)
-echo $0 && cat /etc/shells && apt install zsh -y && sudo chsh -s /bin/bash
-# 安装ohmyzsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # vim高亮
 vim ~/.zshrc
