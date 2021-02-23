@@ -7,6 +7,7 @@ common setting for new Mac
 1. install homebrew && 修改源
 1. install git `brew install git`
 1. [install nvm](https://github.com/nvm-sh/nvm#installing-and-updating)  (npx nrm use taobao)
+2. import WebStorm setting
 
 
 ## vim setting
