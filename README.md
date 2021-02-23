@@ -3,10 +3,11 @@ common setting for new Mac
 
 ## common step
 1. install iTerm2 | WebStorm
+1. install ohmyzsh or fish
 1. install homebrew && [change origin](https://blog.csdn.net/qq_33591200/article/details/82882562)
 1. install git `brew install git`
 1. install nvm (npx nrm use taobao)
-1. install ohmyzsh or fish
+
 
 ## vim setting
 ```
