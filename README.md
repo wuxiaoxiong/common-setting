@@ -4,7 +4,7 @@ common setting for new Mac
 ## common step
 1. install iTerm2 | WebStorm
 1. install [ohmyzsh](https://ohmyz.sh/#install)  & config it
-1. install homebrew && [change origin](https://blog.csdn.net/qq_33591200/article/details/82882562)
+1. install homebrew && 修改源
 1. install git `brew install git`
 1. [install nvm](https://github.com/nvm-sh/nvm#installing-and-updating)  (npx nrm use taobao)
 
