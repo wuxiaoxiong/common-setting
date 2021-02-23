@@ -8,6 +8,7 @@ common setting for new Mac
 1. install git `brew install git`
 1. [install nvm](https://github.com/nvm-sh/nvm#installing-and-updating)  (npx nrm use taobao)
 2. import WebStorm setting
+3. 修改yarn源：`yarn config set registry https://registry.npm.taobao.org/`
 
 
 ## vim setting
