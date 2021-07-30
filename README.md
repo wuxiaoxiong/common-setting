@@ -33,8 +33,11 @@ echo "export TERM=xterm-256color" >> ~/.zshrc	#声明终端类型
 echo "ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'" >> ~/.zshrc	#设置建议命令的文字颜色
 ```
 
-## Homebrew 修改源
+## Homebrew (修改源)
 ```
+安装满试试这个：
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+
 阿里源
 # 替换brew.git
 cd "$(brew --repo)"
