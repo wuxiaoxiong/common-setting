@@ -37,6 +37,7 @@ echo "ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'" >> ~/.zshrc	#设置建议命令�
 ```
 安装满试试这个：
 /bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+brew install cmatrix
 
 阿里源
 # 替换brew.git
