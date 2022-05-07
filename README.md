@@ -1,6 +1,8 @@
 # common-setting
 common setting for new Mac
 
+`webStorm config won't work if directly download config zip file. should download by git clone`
+
 ## common step
 1. install iTerm2 | WebStorm
 1. install [ohmyzsh](https://ohmyz.sh/#install)  & config it
